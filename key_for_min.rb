@@ -11,5 +11,5 @@ if name_hash[i] == ""
     end
     i += 1
   end
-  return false
+
 end
