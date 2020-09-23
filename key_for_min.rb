@@ -8,7 +8,7 @@ name_hash.each do |key|
   if name_hash[key] < lowest_value
 lowest_value = name_hash[key]
 lowest_key = key
-    end
-  end
-  lowest_key
+end
+end
+lowest_key
 end
