@@ -9,6 +9,6 @@ name_hash.each do |key|
 lowest_value = name_hash[key]
 lowest_key = key
     end
-  lowest_key
   end
+    lowest_key
 end
